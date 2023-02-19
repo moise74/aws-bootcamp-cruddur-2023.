@@ -2,7 +2,7 @@
 
 ## Required Homework
 
-### 1.Recreate the Logical archtectural Diagram
+### 1.Recreated the Logical archtectural Diagram
 
 I recreated the Logical diagram using Lucid charts with the help of aws icons found in the library.
 
@@ -24,7 +24,7 @@ The second one ,is for the set amount to be used apart from those, gained due to
 
 Below is the screenshoot
 
-![Created budgets](evidences/)
+![Created budgets](evidences/Budget.png)
 
 #### 3.Billing alarm
 
@@ -36,7 +36,8 @@ Notification.
 
 Below is the Screenshoot of set billing alarm
 
-![Screenshoot of set billing alarm](evidences/)
+![Screenshoot of set billing alarm](evidences/Billing%20alarm.png)
+
 
 ###### 4. Created AWS CLI
 
@@ -46,8 +47,16 @@ the local environment .
 
 And I tried to type there some AWS cli commands to see if it has installed successfully.
 
+I installed aws cli Version 2 and I followed the steps as it appears on the [AWS Command Line Interface page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
+I tried the following command
+```
+aws sts get-caller-identity  : to see my credentials
+
+```
+
 Below is the screenshoot
 
-![aws cli screenshoot](evidences/)
+![aws cli screenshoot](evidences/Aws%20CLI%20screenshoot.png)
 
 
